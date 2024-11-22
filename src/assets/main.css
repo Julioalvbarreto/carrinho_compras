@@ -1,0 +1,19 @@
+.btn-roxo {
+    background-color: #6f42c1;  /* Cor roxa */
+    color: white;
+  }
+.btn-roxo:hover {
+    background-color: #5a2d91;  /* Cor roxa mais escura no hover */
+    color: white;
+}
+
+body{
+  background-color: rgb(238, 234, 234);
+}
+
+
+.btn-menor {
+  font-size: 10px;
+  padding: 5px 10px;
+  margin-left: 10px;
+}
