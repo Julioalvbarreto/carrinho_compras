@@ -1,25 +1,25 @@
 # carrinho_compras
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
+Projeto Carrinho de compras com Vue 3 in Vite.
 
 ## Project Setup
 
 ```sh
+node >= v18
+npm > v10
+```
+```sh
 npm install
+npm install json-server
+Usage
+data.json
 ```
 
 ### Compile and Hot-Reload for Development
 
 ```sh
 npm run dev
+npx json-server data.json
 ```
 
 ### Compile and Minify for Production
